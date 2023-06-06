@@ -25,6 +25,9 @@ public class Main {
         hilde.removeStudent("Hilde", "2");
 
 
+        hilde.abstractMethod();
+
+        Student edgar = new Student();
 
 
 

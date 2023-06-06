@@ -5,4 +5,11 @@ public class ComputerScienceStudent extends Student{
 
 
 
+    @Override
+    public void abstractMethod(){
+        System.out.println("Abstrakte Methode, implementiert in der ComputerScienceStudent Klasse");
+
+    }
+
+
 }

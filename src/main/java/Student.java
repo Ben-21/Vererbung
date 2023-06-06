@@ -1,4 +1,4 @@
-public class Student {
+public abstract class Student {
 
     //Fields
      String name;
@@ -13,6 +13,8 @@ public class Student {
     public void removeStudent(String name, String id){
 
     }
+
+    public abstract void abstractMethod();
 
 
 
