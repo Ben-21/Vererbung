@@ -1,8 +1,8 @@
 public class Student {
 
     //Fields
-    private String name;
-    private String id;
+     String name;
+    public String id;
 
 
 
